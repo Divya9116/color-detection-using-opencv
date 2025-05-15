@@ -1,1 +1,2 @@
-# color-detection-using-opencv
+# color-detection-from-images
+color-detection-from-images
